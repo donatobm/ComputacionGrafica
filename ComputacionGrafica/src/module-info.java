@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author diego
+ * @author donato
  *
  */
 module ComputacionGrafica {
